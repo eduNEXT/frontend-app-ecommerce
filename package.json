@@ -67,7 +67,7 @@
   },
   "devDependencies": {
     "@edx/frontend-build": "2.0.3",
-    "axios-mock-adapter": "1.15.0",
+    "axios-mock-adapter": "1.18.1",
     "babel-plugin-transform-class-properties": "6.24.1",
     "babel-plugin-transform-imports": "1.5.1",
     "enzyme": "3.3.0",
